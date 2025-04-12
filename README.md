@@ -9,7 +9,7 @@ Formado pela Universidade São Judas Tadeu (USJT), com quase 2 anos de experiên
 - 🔭 **Atualmente trabalho:** No Grupo Growth 7 como Dev. Junior, implementando soluções tecnológicas e participando de projetos inovadores
 - 🌱 **Estou aprendendo:** Infraestrutura de dados, desenvolvimento fullstack e aplicações de IA
 - 💡 **Interesses:** Data Engineering, Frontend, Backend e Inteligência Artificial
-- 🤝 **Busco colaborar em:** Projetos open source relacionados a dados e IA
+- 🤝 **Busco colaborar em:** Projetos open source
 - ⚡ **Curiosidade:** Apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios
 
 <h2> 🚀 &nbsp;Tecnologias e Ferramentas</h2>
