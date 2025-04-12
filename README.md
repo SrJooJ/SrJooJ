@@ -1,4 +1,4 @@
-# Olá, sou o SrJooJ! 👋
+# Olá, sou o João! 👋
 
 ## 💻 Engenheiro de Computação & Desenvolvedor Junior
 
