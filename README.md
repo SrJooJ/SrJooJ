@@ -2,11 +2,11 @@
 
 ## 💻 Engenheiro de Computação & Desenvolvedor Junior
 
-Formado pela Universidade São Judas Tadeu (USJT), com quase 2 anos de experiência no mercado de tecnologia. Sou um desenvolvedor em início de carreira, explorando diversas áreas da tecnologia com curiosidade e dedicação.
+Engenheiro de Computação formado pela Universidade São Judas Tadeu (USJT), com quase 3 anos de experiência no mercado de tecnologia e MBA em Engenharia de Dados em andamento. Sou um desenvolvedor em início de carreira, explorando diversas áreas da tecnologia com curiosidade e dedicação.
 
 ## 🚀 Sobre mim
 
-- 🔭 **Atualmente trabalho:** No Grupo Growth 7 como Dev. Junior, implementando soluções tecnológicas e participando de projetos inovadores
+- 🔭 **Atualmente trabalho:** No Grupo Growth 7 como Tech Manager, implementando soluções tecnológicas e participando de projetos inovadores
 - 🌱 **Estou aprendendo:** Infraestrutura de dados, desenvolvimento fullstack e aplicações de IA
 - 💡 **Interesses:** Data Engineering, Frontend, Backend e Inteligência Artificial
 - 🤝 **Busco colaborar em:** Projetos open source
