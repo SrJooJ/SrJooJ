@@ -1,6 +1,6 @@
 # Olá, sou o João! 👋
 
-## 💻 Engenheiro de Computação & Desenvolvedor Junior
+## 💻 Engenheiro de Computação & Tech Manager
 
 Engenheiro de Computação formado pela Universidade São Judas Tadeu (USJT), com quase 3 anos de experiência no mercado de tecnologia e MBA em Engenharia de Dados em andamento. Sou um desenvolvedor em início de carreira, explorando diversas áreas da tecnologia com curiosidade e dedicação.
 
