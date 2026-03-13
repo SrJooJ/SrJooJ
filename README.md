@@ -54,13 +54,10 @@ Tech Manager com 3 anos de experiência hands-on. Recentemente promovido para li
   <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github-actions" width="45" height="45"/></a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<div align="center">
-  <a href="https://github.com/SrJooJ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrJooJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+> 💡 547 contribuições no último ano — a maioria em repositórios privados da empresa.
+
 
 ## 📫 Como me encontrar
 
