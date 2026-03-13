@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+sou+o+Jo%C3%A3o!+%F0%9F%91%8B;Tech+Manager+%7C+FullStack+Developer+%7C+Data+Engineer;3+anos+construindo+solu%C3%A7%C3%B5es+com+IA+e+dados)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joao-cruz-j"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joao-cruz-j"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NyAySDMuNTNhMS41IDEuNSAwIDAwLTEuNSAxLjV2MTdhMS41IDEuNSAwIDAwMS41IDEuNWgxNi45NGExLjUgMS41IDAgMDAxLjUtMS41di0xN2ExLjUgMS41IDAgMDAtMS41LTEuNXpNOC4wOSAxOC43NEg1LjEyVjkuMzVoMi45N3Y5LjM5em0tMS40OS0xMC42OGExLjcyIDEuNzIgMCAxMTAtMy40NCAxLjcyIDEuNzIgMCAwMTAgMy40NHptMTIuNjcgMTAuNjhoLTIuOTN2LTQuNTdjMC0xLjA5LS4wMi0yLjQ5LTEuNTItMi40OS0xLjUyIDAtMS43NSAxLjE5LTEuNzUgMi40MnY0LjY0aC0yLjkzVjkuMzVoMi44MXYxLjI5aC4wNGMuMzktLjc0IDEuMzQtMS41MiAyLjc2LTEuNTIgMi45NSAwIDMuNSAxLjk0IDMuNSA0LjQ3djUuMTV6Ii8+PC9zdmc+"/></a>
   <a href="mailto:joao.victor1020@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SrJooJ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=SrJooJ&color=bd93f9&style=for-the-badge" alt="Profile views"/>
