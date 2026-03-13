@@ -1,16 +1,22 @@
 # Olá, sou o João! 👋
 
-## 💻 Engenheiro de Computação & Tech Manager
+## 💻 Tech Manager | FullStack Developer | Data Engineer
 
-Engenheiro de Computação formado pela Universidade São Judas Tadeu (USJT), com quase 3 anos de experiência no mercado de tecnologia e MBA em Engenharia de Dados em andamento. Sou um desenvolvedor em início de carreira, explorando diversas áreas da tecnologia com curiosidade e dedicação.
+Tech Manager com 3 anos de experiência hands-on. Recentemente promovido para liderar times de DEV e TI, tendo construído a área de tecnologia do zero.
 
 ## 🚀 Sobre mim
 
-- 🔭 **Atualmente trabalho:** No Grupo Growth 7 como Tech Manager, implementando soluções tecnológicas e participando de projetos inovadores
-- 🌱 **Estou aprendendo:** Infraestrutura de dados, desenvolvimento fullstack e aplicações de IA
-- 💡 **Interesses:** Data Engineering, Frontend, Backend e Inteligência Artificial
-- 🤝 **Busco colaborar em:** Projetos open source
-- ⚡ **Curiosidade:** Apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios
+- 🔭 **Atualmente trabalho:** No Grupo Growth 7 como Tech Manager, liderando times de DEV e TI
+- 💡 **Foco:** Data Engineering, FullStack Development e Inteligência Artificial
+- 🎓 **Formação:** Engenheiro de Computação (USJT) + MBA em Engenharia de Dados em andamento (FIAP)
+- 📝 **Publicação:** [Artigo científico sobre IA e Cibersegurança](https://ojs.revistadelos.com/ojs/index.php/delos/article/view/2954)
+
+## 🏗️ Projetos que construí
+
+- **Lakehouse** — Arquitetura de dados integrando 3 sistemas (CRM, Facebook Ads, Asaas) com custo < R$100/mês
+- **Sistema de Tradução com IA** — Tradução juramentada PT→IT para documentos legais, economizando ~R$1M/ano
+- **Sistema de Feedback com IA** — Agente que analisa conversas de vendas e gera relatórios automáticos (LangChain/LangGraph)
+- **CRM Bitrix24** — Implementação completa do zero até adoção
 
 <h2> 🚀 &nbsp;Tecnologias e Ferramentas</h2>
 
@@ -39,11 +45,14 @@ Engenheiro de Computação formado pela Universidade São Judas Tadeu (USJT), co
   <a href="https://qdrant.tech/" target="_blank"><img src="https://qdrant.tech/images/favicon.ico" alt="qdrant" width="45" height="45"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="45" height="45"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="45" height="45"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/></a>
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="45" height="45"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="45" height="45"/></a>
+  <a href="https://clickup.com/" target="_blank"><img src="https://clickup.com/favicon.ico" alt="clickup" width="45" height="45"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github-actions" width="45" height="45"/></a>
 </p>
-
-## 🔍 Em busca de...
-
-Ambientes que estimulem a troca de conhecimentos e o desenvolvimento contínuo. Estou pronto para encarar novos desafios e contribuir com soluções inovadoras em equipes dinâmicas.
 
 ## 📊 GitHub Stats
 
@@ -58,7 +67,3 @@ Ambientes que estimulem a troca de conhecimentos e o desenvolvimento contínuo. 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-cruz-j)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrJooJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.victor1020@outlook.com)
-
----
-
-⭐️ Baseado em [SrJooJ](https://github.com/SrJooJ)
