@@ -35,7 +35,7 @@ foco:
   <tr>
     <td align="center" width="50%">
       <h3>🏠 Lakehouse</h3>
-      <p>Arquitetura de dados integrando 3 sistemas (CRM, Facebook Ads, Asaas)</p>
+      <p>Arquitetura de dados integrando 4 sistemas (CRM, Facebook Ads, Asaas e conta azul)</p>
       <p><strong>Custo: < R$100/mês</strong></p>
       <p><code>GCP</code> <code>BigQuery</code> <code>Terraform</code> <code>Dataform</code></p>
     </td>
