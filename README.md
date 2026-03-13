@@ -11,7 +11,7 @@ Tech Manager com 3 anos de experiência hands-on. Recentemente promovido para li
 - 🎓 **Formação:** Engenheiro de Computação (USJT) + MBA em Engenharia de Dados em andamento (FIAP)
 - 📝 **Publicação:** [Artigo científico sobre IA e Cibersegurança](https://ojs.revistadelos.com/ojs/index.php/delos/article/view/2954)
 
-## 🏗️ Projetos que construí
+## 🏗️ Alguns projetos que construí
 
 - **Lakehouse** — Arquitetura de dados integrando 3 sistemas (CRM, Facebook Ads, Asaas) com custo < R$100/mês
 - **Sistema de Tradução com IA** — Tradução juramentada PT→IT para documentos legais, economizando ~R$1M/ano
