@@ -29,7 +29,7 @@ foco:
 
 ---
 
-## 🏗️ Projetos que construí
+## 🏗️ Alguns projetos que construí
 
 <table>
   <tr>
