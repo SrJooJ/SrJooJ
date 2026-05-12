@@ -64,7 +64,7 @@ foco:
 
 <h2> 🚀 &nbsp;Tecnologias e Ferramentas</h2>
 
-<p align="left">
+<div align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
@@ -91,9 +91,9 @@ foco:
   <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487711" alt="n8n" width="45" height="45"/></a>
   <a href="https://www.make.com/en" target="_blank"><img src="https://www.make.com/favicon.ico" alt="make automation" width="45" height="45"/></a>
   <a href="https://www.bitrix24.com/" target="_blank"><img src="https://www.bitrix24.com/favicon.ico" alt="bitrix24" width="45" height="45"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="langchain" width="45" height="45"/></a> 
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="langchain" width="45" height="45"/></a>
   <a href="https://qdrant.tech/" target="_blank"><img src="https://qdrant.tech/images/favicon.ico" alt="qdrant" width="45" height="45"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="45" height="45"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="45" height="45"/></a>
-</p>
+</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
