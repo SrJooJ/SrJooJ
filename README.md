@@ -92,13 +92,13 @@ focus:
   <a href="https://www.hostinger.com/" target="_blank"><img src="https://cdn.simpleicons.org/hostinger/673DE6" alt="hostinger" width="42"/></a>
   <a href="https://www.godaddy.com/" target="_blank"><img src="https://cdn.simpleicons.org/godaddy/1BDBDB" alt="godaddy" width="42"/></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="langchain" width="45"/></a>
-  <a href="https://chatgpt.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai/white" alt="chatgpt" width="42"/></a>
+  <a href="https://chatgpt.com/" target="_blank"><img src="https://chatgpt.com/favicon.ico" alt="chatgpt" width="42"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="42"/></a>
   <a href="https://www.deepseek.com/" target="_blank"><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="deepseek" width="42"/></a>
   <a href="https://manus.im/" target="_blank"><img src="https://manus.im/favicon.ico" alt="manus" width="45"/></a>
   <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/182288589" alt="mcp" width="45"/></a>
   <a href="https://www.firecrawl.dev/" target="_blank"><img src="https://www.firecrawl.dev/favicon.ico" alt="firecrawl" width="45"/></a>
-  <a href="https://tavily.com/" target="_blank"><img src="https://www.tavily.com/favicon.ico" alt="tavily" width="42"/></a>
+  <a href="https://tavily.com/" target="_blank"><img src="https://tavily.com/favicon.ico" alt="tavily" width="42"/></a>
   <a href="https://www.deepl.com/" target="_blank"><img src="https://cdn.simpleicons.org/deepl/0F2B46" alt="deepl" width="42"/></a>
   <a href="https://cursor.com/" target="_blank"><img src="https://www.cursor.com/favicon.ico" alt="cursor" width="45"/></a>
   <a href="https://antigravity.google/" target="_blank"><img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=128" alt="antigravity" width="42"/></a>
