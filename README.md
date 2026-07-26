@@ -111,8 +111,37 @@ focus:
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="45"/></a>
   <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/looker/4285F4" alt="data-studio" width="42"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="45"/></a>
-  <a href="https://clickup.com/" target="_blank"><img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="clickup" width="42"/></a>
+  <a href="https://clickup.com/" target="_blank"><img src="https://clickup.com/favicon.ico" alt="clickup" width="42"/></a>
   <a href="https://obsidian.md/" target="_blank"><img src="https://obsidian.md/favicon.ico" alt="obsidian" width="45"/></a>
   <a href="https://www.bitrix24.com/" target="_blank"><img src="https://www.bitrix24.com/favicon.ico" alt="bitrix24" width="45"/></a>
 </p>
+
+---
+
+## 💻 My Setup
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="18"/>&nbsp; MacBook Air M5</h4>
+      <p>Daily driver for everything — development, automation and AI work.</p>
+      <ul>
+        <li>Chip: Apple M5 (10-core)</li>
+        <li>RAM: 16GB Unified</li>
+        <li>macOS Tahoe</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="18"/>&nbsp; Windows Desktop</h4>
+      <p>Heavy-lifting rig for local processing and side projects.</p>
+      <ul>
+        <li>CPU: Ryzen 7 5700X3D</li>
+        <li>GPU: RX 6750XT</li>
+        <li>RAM: 32GB DDR4</li>
+        <li>Storage: 2TB SSD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
