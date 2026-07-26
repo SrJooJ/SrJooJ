@@ -1,0 +1,7 @@
+# Laboratório de testes de ícones — não versionar.
+# Candidatos baixados das fontes oficiais ficam aqui até serem aprovados
+# e promovidos para icons/.
+experimental/
+
+# macOS
+.DS_Store

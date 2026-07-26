@@ -65,55 +65,62 @@ focus:
 <h2>🚀 &nbsp;Tools & Software I've Worked With</h2>
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="55"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/officel/80/express-js.png" alt="express" width="45"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="45"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="45"/></a>
-  <a href="https://qdrant.tech/" target="_blank"><img src="https://qdrant.tech/images/favicon.ico" alt="qdrant" width="45"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45"/></a>
-  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="45"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="45"/></a>
-  <a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45"/></a>
-  <a href="https://traefik.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" width="45"/></a>
-  <a href="https://coolify.io/" target="_blank"><img src="https://coolify.io/favicon.ico" alt="coolify" width="45"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="45"/></a>
-  <a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="45"/></a>
-  <a href="https://www.hostinger.com/" target="_blank"><img src="https://cdn.simpleicons.org/hostinger/673DE6" alt="hostinger" width="42"/></a>
-  <a href="https://www.godaddy.com/" target="_blank"><img src="https://cdn.simpleicons.org/godaddy/1BDBDB" alt="godaddy" width="42"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="langchain" width="45"/></a>
-  <a href="https://chatgpt.com/" target="_blank"><img src="https://chatgpt.com/favicon.ico" alt="chatgpt" width="42"/></a>
-  <a href="https://claude.ai/" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="claude" width="42"/></a>
-  <a href="https://www.deepseek.com/" target="_blank"><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="deepseek" width="42"/></a>
-  <a href="https://manus.im/" target="_blank"><img src="https://manus.im/favicon.ico" alt="manus" width="45"/></a>
-  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/182288589" alt="mcp" width="45"/></a>
-  <a href="https://www.firecrawl.dev/" target="_blank"><img src="https://www.firecrawl.dev/favicon.ico" alt="firecrawl" width="45"/></a>
-  <a href="https://tavily.com/" target="_blank"><img src="https://tavily.com/favicon.ico" alt="tavily" width="42"/></a>
-  <a href="https://www.deepl.com/" target="_blank"><img src="https://cdn.simpleicons.org/deepl/0F2B46" alt="deepl" width="42"/></a>
-  <a href="https://cursor.com/" target="_blank"><img src="https://www.cursor.com/favicon.ico" alt="cursor" width="45"/></a>
-  <a href="https://antigravity.google/" target="_blank"><img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=128" alt="antigravity" width="42"/></a>
-  <a href="https://lovable.dev/" target="_blank"><img src="https://lovable.dev/favicon.ico" alt="lovable" width="45"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="45"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github-actions" width="45"/></a>
-  <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487711" alt="n8n" width="45"/></a>
-  <a href="https://www.make.com/en" target="_blank"><img src="https://www.make.com/favicon.ico" alt="make" width="45"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="45"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="45"/></a>
-  <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/looker/4285F4" alt="data-studio" width="42"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="45"/></a>
-  <a href="https://clickup.com/" target="_blank"><img src="https://clickup.com/favicon.ico" alt="clickup" width="42"/></a>
-  <a href="https://obsidian.md/" target="_blank"><img src="https://obsidian.md/favicon.ico" alt="obsidian" width="45"/></a>
-  <a href="https://www.bitrix24.com/" target="_blank"><img src="https://www.bitrix24.com/favicon.ico" alt="bitrix24" width="45"/></a>
+  <!-- Languages & Frontend -->
+  <a href="https://www.python.org/" target="_blank"><img src="icons/languages/python.svg" alt="Python" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/languages/typescript.svg" alt="TypeScript" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="icons/languages/javascript.svg" alt="JavaScript" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="icons/languages/html5.svg" alt="HTML5" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="icons/languages/css3.svg" alt="CSS3" width="45" height="45"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="icons/languages/react.svg" alt="React" width="45" height="45"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="icons/languages/nextjs.svg" alt="Next.js" width="45" height="45"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="icons/languages/nodejs.svg" alt="Node.js" width="45" height="45"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="icons/languages/express.svg" alt="Express" width="45" height="45"/></a>
+  <!-- Databases & Storage -->
+  <a href="https://www.postgresql.org/" target="_blank"><img src="icons/databases/postgresql.svg" alt="PostgreSQL" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="icons/databases/mysql.svg" alt="MySQL" width="45" height="45"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="icons/databases/redis.svg" alt="Redis" width="45" height="45"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="icons/databases/supabase.svg" alt="Supabase" width="45" height="45"/></a>
+  <a href="https://qdrant.tech/" target="_blank"><img src="icons/databases/qdrant.svg" alt="Qdrant" width="45" height="45"/></a>
+  <!-- Cloud & Infrastructure -->
+  <a href="https://aws.amazon.com/" target="_blank"><img src="icons/cloud/aws.svg" alt="AWS" width="45" height="45"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="icons/cloud/gcp.svg" alt="Google Cloud" width="45" height="45"/></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img src="icons/cloud/cloudflare.svg" alt="Cloudflare" width="45" height="45"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="icons/cloud/docker.svg" alt="Docker" width="45" height="45"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="icons/cloud/terraform.svg" alt="Terraform" width="45" height="45"/></a>
+  <a href="https://nginx.org/" target="_blank"><img src="icons/cloud/nginx.svg" alt="NGINX" width="45" height="45"/></a>
+  <a href="https://traefik.io/" target="_blank"><img src="icons/cloud/traefik.svg" alt="Traefik" width="45" height="45"/></a>
+  <a href="https://coolify.io/" target="_blank"><img src="icons/cloud/coolify.svg" alt="Coolify" width="45" height="45"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="icons/cloud/ubuntu.svg" alt="Ubuntu" width="45" height="45"/></a>
+  <a href="https://www.debian.org/" target="_blank"><img src="icons/cloud/debian.svg" alt="Debian" width="45" height="45"/></a>
+  <a href="https://www.hostinger.com/" target="_blank"><img src="icons/cloud/hostinger.svg" alt="Hostinger" width="45" height="45"/></a>
+  <a href="https://www.godaddy.com/" target="_blank"><img src="icons/cloud/godaddy.svg" alt="GoDaddy" width="45" height="45"/></a>
+  <!-- AI & LLM -->
+  <a href="https://www.langchain.com/" target="_blank"><img src="icons/ai/langchain.svg" alt="LangChain" width="45" height="45"/></a>
+  <a href="https://chatgpt.com/" target="_blank"><img src="icons/ai/chatgpt.svg" alt="ChatGPT" width="45" height="45"/></a>
+  <a href="https://claude.ai/" target="_blank"><img src="icons/ai/claude.svg" alt="Claude" width="45" height="45"/></a>
+  <a href="https://www.deepseek.com/" target="_blank"><img src="icons/ai/deepseek.svg" alt="DeepSeek" width="45" height="45"/></a>
+  <a href="https://manus.im/" target="_blank"><img src="icons/ai/manus.svg" alt="Manus" width="45" height="45"/></a>
+  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="icons/ai/mcp.svg" alt="Model Context Protocol" width="45" height="45"/></a>
+  <a href="https://www.firecrawl.dev/" target="_blank"><img src="icons/ai/firecrawl.svg" alt="Firecrawl" width="45" height="45"/></a>
+  <a href="https://tavily.com/" target="_blank"><img src="icons/ai/tavily.svg" alt="Tavily" width="45" height="45"/></a>
+  <a href="https://www.deepl.com/" target="_blank"><img src="icons/ai/deepl.svg" alt="DeepL" width="45" height="45"/></a>
+  <a href="https://cursor.com/" target="_blank"><img src="icons/ai/cursor.svg" alt="Cursor" width="45" height="45"/></a>
+  <a href="https://antigravity.google/" target="_blank"><img src="icons/ai/antigravity.png" alt="Antigravity" width="45" height="45"/></a>
+  <a href="https://lovable.dev/" target="_blank"><img src="icons/ai/lovable.svg" alt="Lovable" width="45" height="45"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="icons/ai/huggingface.svg" alt="Hugging Face" width="45" height="45"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="icons/ai/ollama.svg" alt="Ollama" width="45" height="45"/></a>
+  <!-- Automation, Data & Productivity -->
+  <a href="https://www.postman.com/" target="_blank"><img src="icons/automation/postman.svg" alt="Postman" width="45" height="45"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="icons/automation/githubactions.svg" alt="GitHub Actions" width="45" height="45"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="icons/automation/n8n.svg" alt="n8n" width="45" height="45"/></a>
+  <a href="https://www.make.com/en" target="_blank"><img src="icons/automation/make.svg" alt="Make" width="45" height="45"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="icons/data/streamlit.svg" alt="Streamlit" width="45" height="45"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="icons/data/powerbi.svg" alt="Power BI" width="45" height="45"/></a>
+  <a href="https://lookerstudio.google.com/" target="_blank"><img src="icons/data/lookerstudio.svg" alt="Looker Studio" width="45" height="45"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="icons/productivity/jira.svg" alt="Jira" width="45" height="45"/></a>
+  <a href="https://clickup.com/" target="_blank"><img src="icons/productivity/clickup.svg" alt="ClickUp" width="45" height="45"/></a>
+  <a href="https://obsidian.md/" target="_blank"><img src="icons/productivity/obsidian.svg" alt="Obsidian" width="45" height="45"/></a>
+  <a href="https://www.bitrix24.com/" target="_blank"><img src="icons/productivity/bitrix24.svg" alt="Bitrix24" width="45" height="45"/></a>
 </p>
 
 ---
@@ -123,7 +130,7 @@ focus:
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="18"/>&nbsp; MacBook Air M5</h4>
+      <h4><img src="icons/setup/apple.svg" alt="Apple" width="18" height="18"/>&nbsp; MacBook Air M5</h4>
       <p>Daily driver for everything — development, automation and AI work.</p>
       <ul>
         <li>Chip: Apple M5 (10-core)</li>
@@ -132,7 +139,7 @@ focus:
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="18"/>&nbsp; Windows Desktop</h4>
+      <h4><img src="icons/setup/windows11.svg" alt="Windows 11" width="18" height="18"/>&nbsp; Windows Desktop</h4>
       <p>Heavy-lifting rig for local processing and side projects.</p>
       <ul>
         <li>CPU: Ryzen 7 5700X3D</li>
