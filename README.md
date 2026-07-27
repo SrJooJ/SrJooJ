@@ -1,17 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4b8ff,50:bd93f9,100:a273f0&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Jo%C3%A3o!+%F0%9F%91%8B;Automation+Engineer+%7C+FullStack+Developer+%7C+Data+Engineer;4+years+building+solutions+with+automation+and+data)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-cruz-j"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NyAySDMuNTNhMS41IDEuNSAwIDAwLTEuNSAxLjV2MTdhMS41IDEuNSAwIDAwMS41IDEuNWgxNi45NGExLjUgMS41IDAgMDAxLjUtMS41di0xN2ExLjUgMS41IDAgMDAtMS41LTEuNXpNOC4wOSAxOC43NEg1LjEyVjkuMzVoMi45N3Y5LjM5em0tMS40OS0xMC42OGExLjcyIDEuNzIgMCAxMTAtMy40NCAxLjcyIDEuNzIgMCAwMTAgMy40NHptMTIuNjcgMTAuNjhoLTIuOTN2LTQuNTdjMC0xLjA5LS4wMi0yLjQ5LTEuNTItMi40OS0xLjUyIDAtMS43NSAxLjE5LTEuNzUgMi40MnY0LjY0aC0yLjkzVjkuMzVoMi44MXYxLjI5aC4wNGMuMzktLjc0IDEuMzQtMS41MiAyLjc2LTEuNTIgMi45NSAwIDMuNSAxLjk0IDMuNSA0LjQ3djUuMTV6Ii8+PC9zdmc+"/></a>
   <a href="mailto:joao.victor1020@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/SrJooJ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=SrJooJ&color=bd93f9&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SrJooJ&color=7c3aed&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ---
 
-## 🚀 About me
+### `[ ABOUT ME ]`
 ```yaml
 name: João Cruz
 role: Automation Engineer
@@ -29,40 +28,74 @@ focus:
 
 ---
 
-## 🏗️ Some projects I've built
+### `[ PROJECTS ]`
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏠 Lakehouse</h3>
-      <p>Multi-tenant data architecture integrating 4 systems (CRM, Meta Ads, Asaas and Conta Azul)</p>
-      <p><strong>Cost: < $40/month</strong></p>
-      <p><code>GCP</code> <code>BigQuery</code> <code>Terraform</code> <code>Dataform</code></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🌐 AI Translation</h3>
-      <p>Sworn translation system PT→IT for legal documents</p>
-      <p><strong>Savings: ~$200K/year</strong></p>
-      <p><code>DeepL API</code> <code>TypeScript</code> <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 AI Feedback</h3>
-      <p>Agent that analyzes sales conversations and generates automated reports</p>
-      <p><code>LangGraph</code> <code>Python</code> <code>Docker</code></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📊 Bitrix24 CRM</h3>
-      <p>End-to-end implementation from scratch to full adoption</p>
-      <p><code>Bitrix24</code> <code>Automations</code> <code>API</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**Lakehouse**
+
+Multi-tenant data architecture integrating 4 systems (CRM, Meta Ads, Asaas and Conta Azul)
+
+<img src="https://img.shields.io/badge/cost-%3C%20%2440%2Fmonth-7c3aed?style=flat-square&labelColor=161b22" alt="Cost: < $40/month">
+
+</td>
+<td width="50%" valign="top">
+
+**AI Translation**
+
+Sworn translation system PT→IT for legal documents
+
+<img src="https://img.shields.io/badge/savings-~%24200K%2Fyear-7c3aed?style=flat-square&labelColor=161b22" alt="Savings: ~$200K/year">
+
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+
+<img src="icons/cloud/gcp.png" width="18" align="absmiddle"> <img src="icons/cloud/terraform.svg" width="18" align="absmiddle"> &nbsp;<sub>GCP · BigQuery · Terraform · Dataform</sub>
+
+</td>
+<td valign="bottom">
+
+<img src="icons/ai/deepl.png" width="18" align="absmiddle"> <img src="icons/languages/typescript.svg" width="18" align="absmiddle"> <img src="icons/cloud/docker.svg" width="18" align="absmiddle"> &nbsp;<sub>DeepL API · TypeScript · Docker</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**AI Feedback**
+
+Agent that analyzes sales conversations and generates automated reports
+
+</td>
+<td valign="top">
+
+**Bitrix24 CRM**
+
+End-to-end implementation from scratch to full adoption
+
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+
+<img src="icons/ai/langchain.png" width="18" align="absmiddle"> <img src="icons/languages/python.svg" width="18" align="absmiddle"> <img src="icons/cloud/docker.svg" width="18" align="absmiddle"> &nbsp;<sub>LangGraph · Python · Docker</sub>
+
+</td>
+<td valign="bottom">
+
+<img src="icons/productivity/bitrix24.svg" width="18" align="absmiddle"> &nbsp;<sub>Bitrix24 · Automations · API</sub>
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2>🚀 &nbsp;Tools & Software I've Worked With</h2>
+### `[ INVENTORY ]`
 
 <p align="left">
   <!-- Languages & Frontend -->
@@ -125,30 +158,32 @@ focus:
 
 ---
 
-## 💻 My Setup
+<div align="center">
+
+### `[ GEAR ]`
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4><img src="icons/setup/apple.svg" alt="Apple" width="18" height="18"/>&nbsp; MacBook Air M5</h4>
-      <p>Daily driver for everything — development, automation and AI work.</p>
-      <ul>
-        <li>Chip: Apple M5 (10-core)</li>
-        <li>RAM: 16GB Unified</li>
-        <li>macOS Tahoe</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4><img src="icons/setup/windows11.svg" alt="Windows 11" width="18" height="18"/>&nbsp; Windows Desktop</h4>
-      <p>Heavy-lifting rig for local processing and side projects.</p>
-      <ul>
-        <li>CPU: Ryzen 7 5700X3D</li>
-        <li>GPU: RX 6750XT</li>
-        <li>RAM: 32GB DDR4</li>
-        <li>Storage: 2TB SSD</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+<img src="icons/setup/apple.svg" width="26"><br><br>
+<b>MacBook Air M5</b><br>
+<sub>Daily driver for everything — development, automation and AI work.</sub><br><br>
+<code>Chip: Apple M5 (10-core)</code><br>
+<code>RAM: 16GB Unified</code><br>
+<code>macOS Tahoe</code>
+</td>
+<td align="center" width="50%">
+<img src="icons/setup/windows11.svg" width="26"><br><br>
+<b>Windows Desktop</b><br>
+<sub>Heavy-lifting rig for local processing and side projects.</sub><br><br>
+<code>CPU: Ryzen 7 5700X3D</code><br>
+<code>GPU: RX 6750XT</code><br>
+<code>RAM: 32GB DDR4</code><br>
+<code>Storage: 2TB SSD</code>
+</td>
+</tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a273f0,50:bd93f9,100:d4b8ff&height=140&section=footer"/>
