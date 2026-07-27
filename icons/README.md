@@ -43,13 +43,13 @@ o **app icon oficial** da marca, que já vem com fundo:
 | `ai/langchain.png` | webclip oficial de `langchain.com` |
 | `ai/ollama.png` | `ollama.com/public/apple-touch-icon.png` |
 
-`ai/tavily` merece nota à parte. O SVG oficial (`tavily-mark-black.svg`) desenha o
-quadrado e as setas como **recortes** (`fill-rule="evenodd"`), então as setas mostram o
-que estiver atrás: no fundo claro viram brancas, no escuro viram escuras — e o ícone
-inteiro some. A correção mantém a cor oficial `#1F1E1E` e duplica o path com
-`fill-rule="nonzero"` em branco por baixo, de modo que os recortes passem a revelar
-branco sólido em vez do fundo da página. No tema claro o resultado é idêntico ao
-original; no escuro as setas continuam legíveis.
+`ai/tavily` é um caso à parte e ficou com cor ajustada. Usa a forma oficial
+(`tavily-mark-black.svg`), que desenha o quadrado e as setas como **recortes**
+(`fill-rule="evenodd"`) — as setas mostram o que estiver atrás. Na cor original
+`#1F1E1E` o quadrado é quase preto: fica ótimo no tema claro, mas no escuro vira uma
+mancha que destoa dos vizinhos coloridos. Preencher os recortes com branco resolve a
+legibilidade das setas, mas não o bloco escuro. Por isso o quadrado fica em `#6E7681`,
+que se comporta bem nos dois temas.
 
 Cinco ícones ainda usam a media query, mas **sem risco**: todos têm duas cores próprias,
 então continuam legíveis mesmo travados na variante errada — a media query só refina o
@@ -74,13 +74,14 @@ nunca publicou os códigos, então usamos os valores consistentes entre reconstr
 
 ## Ajustes de cor remanescentes
 
-Dois ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
+Três ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
 pela própria marca. Foram clareados para manter ≥3:1 de contraste nos dois temas:
 
 | Ícone | De | Para |
 | --- | --- | --- |
 | `cloud/aws` | `#252F3E` | `#7A869A` (só o texto; o *smile* segue `#F90`) |
 | `databases/mysql` | `#00618A` | `#4479A1` (azul MySQL, variante clara) |
+| `ai/tavily` | `#1F1E1E` | `#6E7681` (ver nota acima) |
 
 
 `cloud/gcp.png` é o `super_cloud_gradient.png` servido pelo gstatic, que o
