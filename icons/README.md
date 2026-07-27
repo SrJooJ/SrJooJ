@@ -16,7 +16,7 @@ icons/
 
 | Regra | Valor |
 | --- | --- |
-| Formato | SVG (vetorial) — exceto `ai/antigravity.png`, sem SVG público |
+| Formato | SVG (vetorial) — exceto `ai/antigravity.png` e `cloud/gcp.png`, sem SVG público |
 | Canvas | `viewBox="0 0 128 128"` quadrado (PNG: 256×256) |
 | Enquadramento | centralizado pelo *bounding box* real, maior dimensão ≤ 112/128 |
 | Peso óptico | escala limitada também pela área visual (~100²), para glifos sólidos não dominarem os vazados |
@@ -24,7 +24,7 @@ icons/
 
 ## Ícones que se adaptam ao tema do GitHub
 
-Nove ícones trazem a media query **dentro do próprio SVG**, então mudam de cor conforme
+Dez ícones trazem a media query **dentro do próprio SVG**, então mudam de cor conforme
 o tema de quem está lendo:
 
 ```css
@@ -33,7 +33,7 @@ o tema de quem está lendo:
 ```
 
 `ai/chatgpt` · `ai/cursor` · `ai/langchain` · `ai/manus` · `ai/mcp` · `ai/ollama` ·
-`ai/tavily` · `languages/express` · `productivity/obsidian`
+`ai/tavily` · `ai/deepl` · `languages/express` · `productivity/obsidian`
 
 Não é invenção nossa: **o favicon oficial do ChatGPT e o do Obsidian já vêm assim**. Nos
 demais, a técnica foi aplicada usando as cores que a própria marca publica para cada
@@ -73,14 +73,18 @@ nunca publicou os códigos, então usamos os valores consistentes entre reconstr
 
 ## Ajustes de cor remanescentes
 
-Três ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
+Dois ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
 pela própria marca. Foram clareados para manter ≥3:1 de contraste nos dois temas:
 
 | Ícone | De | Para |
 | --- | --- | --- |
-| `ai/deepl` | `#0F2B46` | `#3B82C4` |
 | `cloud/aws` | `#252F3E` | `#7A869A` (só o texto; o *smile* segue `#F90`) |
 | `databases/mysql` | `#00618A` | `#4479A1` (azul MySQL, variante clara) |
+
+`cloud/gcp.png` é o `super_cloud_gradient.png` servido pelo gstatic, que o
+`cloud.google.com` declara hoje como `apple-touch-icon`. A versão de quatro cores
+chapadas é anterior e hoje só sobrevive no `og:image` social. Não há SVG público desse
+gradiente, por isso o ícone é PNG (192×192 na origem, o maior disponível).
 
 Se alguma dessas marcas passar a publicar variante de tema, dá para trocar pela oficial
 e mover para a lista da seção anterior.

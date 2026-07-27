@@ -83,7 +83,7 @@ focus:
   <a href="https://qdrant.tech/" target="_blank"><img src="icons/databases/qdrant.svg" alt="Qdrant" width="45" height="45"/></a>
   <!-- Cloud & Infrastructure -->
   <a href="https://aws.amazon.com/" target="_blank"><img src="icons/cloud/aws.svg" alt="AWS" width="45" height="45"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="icons/cloud/gcp.svg" alt="Google Cloud" width="45" height="45"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="icons/cloud/gcp.png" alt="Google Cloud" width="45" height="45"/></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="icons/cloud/cloudflare.svg" alt="Cloudflare" width="45" height="45"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="icons/cloud/docker.svg" alt="Docker" width="45" height="45"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="icons/cloud/terraform.svg" alt="Terraform" width="45" height="45"/></a>
