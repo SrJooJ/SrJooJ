@@ -16,44 +16,37 @@ icons/
 
 | Regra | Valor |
 | --- | --- |
-| Formato | SVG (vetorial) — exceto `ai/antigravity.png` e `cloud/gcp.png`, sem SVG público |
+| Formato | SVG onde há vetorial oficial; PNG quando só existe app icon (ver abaixo) |
 | Canvas | `viewBox="0 0 128 128"` quadrado (PNG: 256×256) |
 | Enquadramento | centralizado pelo *bounding box* real, maior dimensão ≤ 112/128 |
 | Peso óptico | escala limitada também pela área visual (~100²), para glifos sólidos não dominarem os vazados |
 | Uso no README | `width="45" height="45"` — sem distorção, já que todos são quadrados |
 
-## Ícones que se adaptam ao tema do GitHub
+## Tema claro e escuro — o que funciona e o que não
 
-Dez ícones trazem a media query **dentro do próprio SVG**, então mudam de cor conforme
-o tema de quem está lendo:
+**A armadilha:** `prefers-color-scheme` dentro de um SVG segue o tema do **sistema
+operacional** de quem visita, não o tema do GitHub. Quando os dois divergem, o ícone
+fica preso na variante errada e **some** — não é só perder contraste. `<picture>` com
+`media=` tem exatamente a mesma limitação, porque lê o mesmo sinal.
 
-```css
-:root { --c0: #000 }
-@media (prefers-color-scheme: dark) { :root { --c0: #fff } }
-```
+Isso derrubou a primeira tentativa: ícones de cor única (glifo preto que virava branco)
+ficavam invisíveis para quem lê o GitHub num tema diferente do SO.
 
-`ai/chatgpt` · `ai/cursor` · `ai/langchain` · `ai/manus` · `ai/mcp` · `ai/ollama` ·
-`ai/tavily` · `ai/deepl` · `languages/express` · `productivity/obsidian`
+**O que funciona:** ícone com contraste interno — duas cores dentro do próprio desenho.
+Aí ele é legível sobre qualquer fundo, sem depender de tema nenhum. Por isso estes usam
+o **app icon oficial** da marca, que já vem com fundo:
 
-Não é invenção nossa: **o favicon oficial do ChatGPT e o do Obsidian já vêm assim**. Nos
-demais, a técnica foi aplicada usando as cores que a própria marca publica para cada
-fundo — o Cursor, por exemplo, distribui `favicon.svg` e `favicon-light.svg` separados,
-e a LangChain mantém `logo-dark.svg` (`#030710`) e `logo-light.svg` (`#7FC8FF`) no
-repositório [`langchain-ai/.github`](https://github.com/langchain-ai/.github).
+| Ícone | Origem |
+| --- | --- |
+| `ai/chatgpt.png` | ícone do app ChatGPT na App Store (OpenAI) |
+| `ai/deepl.png` | ícone do app DeepL na App Store |
+| `ai/langchain.png` | webclip oficial de `langchain.com` |
+| `ai/ollama.png` | `ollama.com/public/apple-touch-icon.png` |
 
-Atenção ao caçar o logo da LangChain: o `logo.svg` ainda servido em `langchain.com` é o
-**símbolo antigo** (elo de corrente). O atual, pós-rebrand, é a hélice de quatro pétalas
-— confirmável no header do site e no avatar do org no GitHub. O ícone daqui foi extraído
-do logo horizontal oficial, isolando os 4 paths do símbolo (medidos por `getBBox`), que
-ocupam exatamente `0 0 488 488`.
-
-Detalhe de implementação: os atributos herdados (`fill`, `stroke`) ficam na tag `<svg>`
-raiz, não no `<g>` de transformação. Se descessem para o `<g>`, ficariam mais próximos
-dos paths do que a regra `:root` do `<style>`, invertendo a cascata e apagando o ícone.
-
-**Limitação:** `prefers-color-scheme` segue o tema do sistema operacional de quem
-visita, não a preferência salva no GitHub. Quem usa "sync with system" (o padrão) vê
-sempre a variante certa.
+Cinco ícones ainda usam a media query, mas **sem risco**: todos têm duas cores próprias,
+então continuam legíveis mesmo travados na variante errada — a media query só refina o
+tom. São `ai/cursor`, `ai/manus`, `ai/mcp`, `languages/express` e
+`productivity/obsidian` (este último já vem assim de fábrica, do favicon oficial).
 
 ## Origem
 
@@ -73,13 +66,14 @@ nunca publicou os códigos, então usamos os valores consistentes entre reconstr
 
 ## Ajustes de cor remanescentes
 
-Dois ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
+Três ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
 pela própria marca. Foram clareados para manter ≥3:1 de contraste nos dois temas:
 
 | Ícone | De | Para |
 | --- | --- | --- |
 | `cloud/aws` | `#252F3E` | `#7A869A` (só o texto; o *smile* segue `#F90`) |
 | `databases/mysql` | `#00618A` | `#4479A1` (azul MySQL, variante clara) |
+| `ai/tavily` | `#1F1E1E` | `#6E7681` (a marca não publica app icon nem variante clara) |
 
 `cloud/gcp.png` é o `super_cloud_gradient.png` servido pelo gstatic, que o
 `cloud.google.com` declara hoje como `apple-touch-icon`. A versão de quatro cores

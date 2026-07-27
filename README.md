@@ -95,20 +95,20 @@ focus:
   <a href="https://www.hostinger.com/" target="_blank"><img src="icons/cloud/hostinger.svg" alt="Hostinger" width="45" height="45"/></a>
   <a href="https://www.godaddy.com/" target="_blank"><img src="icons/cloud/godaddy.svg" alt="GoDaddy" width="45" height="45"/></a>
   <!-- AI & LLM -->
-  <a href="https://www.langchain.com/" target="_blank"><img src="icons/ai/langchain.svg" alt="LangChain" width="45" height="45"/></a>
-  <a href="https://chatgpt.com/" target="_blank"><img src="icons/ai/chatgpt.svg" alt="ChatGPT" width="45" height="45"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="icons/ai/langchain.png" alt="LangChain" width="45" height="45"/></a>
+  <a href="https://chatgpt.com/" target="_blank"><img src="icons/ai/chatgpt.png" alt="ChatGPT" width="45" height="45"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="icons/ai/claude.svg" alt="Claude" width="45" height="45"/></a>
   <a href="https://www.deepseek.com/" target="_blank"><img src="icons/ai/deepseek.svg" alt="DeepSeek" width="45" height="45"/></a>
   <a href="https://manus.im/" target="_blank"><img src="icons/ai/manus.svg" alt="Manus" width="45" height="45"/></a>
   <a href="https://modelcontextprotocol.io/" target="_blank"><img src="icons/ai/mcp.svg" alt="Model Context Protocol" width="45" height="45"/></a>
   <a href="https://www.firecrawl.dev/" target="_blank"><img src="icons/ai/firecrawl.svg" alt="Firecrawl" width="45" height="45"/></a>
   <a href="https://tavily.com/" target="_blank"><img src="icons/ai/tavily.svg" alt="Tavily" width="45" height="45"/></a>
-  <a href="https://www.deepl.com/" target="_blank"><img src="icons/ai/deepl.svg" alt="DeepL" width="45" height="45"/></a>
+  <a href="https://www.deepl.com/" target="_blank"><img src="icons/ai/deepl.png" alt="DeepL" width="45" height="45"/></a>
   <a href="https://cursor.com/" target="_blank"><img src="icons/ai/cursor.svg" alt="Cursor" width="45" height="45"/></a>
   <a href="https://antigravity.google/" target="_blank"><img src="icons/ai/antigravity.png" alt="Antigravity" width="45" height="45"/></a>
   <a href="https://lovable.dev/" target="_blank"><img src="icons/ai/lovable.svg" alt="Lovable" width="45" height="45"/></a>
   <a href="https://huggingface.co/" target="_blank"><img src="icons/ai/huggingface.svg" alt="Hugging Face" width="45" height="45"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="icons/ai/ollama.svg" alt="Ollama" width="45" height="45"/></a>
+  <a href="https://ollama.com/" target="_blank"><img src="icons/ai/ollama.png" alt="Ollama" width="45" height="45"/></a>
   <!-- Automation, Data & Productivity -->
   <a href="https://www.postman.com/" target="_blank"><img src="icons/automation/postman.svg" alt="Postman" width="45" height="45"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="icons/automation/githubactions.svg" alt="GitHub Actions" width="45" height="45"/></a>
