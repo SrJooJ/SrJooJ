@@ -24,7 +24,7 @@ icons/
 
 ## Ícones que se adaptam ao tema do GitHub
 
-Oito ícones trazem a media query **dentro do próprio SVG**, então mudam de cor conforme
+Nove ícones trazem a media query **dentro do próprio SVG**, então mudam de cor conforme
 o tema de quem está lendo:
 
 ```css
@@ -33,12 +33,19 @@ o tema de quem está lendo:
 ```
 
 `ai/chatgpt` · `ai/cursor` · `ai/langchain` · `ai/manus` · `ai/mcp` · `ai/ollama` ·
-`languages/express` · `productivity/obsidian`
+`ai/tavily` · `languages/express` · `productivity/obsidian`
 
 Não é invenção nossa: **o favicon oficial do ChatGPT e o do Obsidian já vêm assim**. Nos
 demais, a técnica foi aplicada usando as cores que a própria marca publica para cada
 fundo — o Cursor, por exemplo, distribui `favicon.svg` e `favicon-light.svg` separados,
-e a LangChain define `#030710` para fundo claro e `#7FC8FF` para fundo escuro.
+e a LangChain mantém `logo-dark.svg` (`#030710`) e `logo-light.svg` (`#7FC8FF`) no
+repositório [`langchain-ai/.github`](https://github.com/langchain-ai/.github).
+
+Atenção ao caçar o logo da LangChain: o `logo.svg` ainda servido em `langchain.com` é o
+**símbolo antigo** (elo de corrente). O atual, pós-rebrand, é a hélice de quatro pétalas
+— confirmável no header do site e no avatar do org no GitHub. O ícone daqui foi extraído
+do logo horizontal oficial, isolando os 4 paths do símbolo (medidos por `getBBox`), que
+ocupam exatamente `0 0 488 488`.
 
 Detalhe de implementação: os atributos herdados (`fill`, `stroke`) ficam na tag `<svg>`
 raiz, não no `<g>` de transformação. Se descessem para o `<g>`, ficariam mais próximos
@@ -55,6 +62,7 @@ sempre a variante certa.
 | Brand kit / site oficial da marca | — | chatgpt, claude, clickup, cursor, langchain, obsidian, bitrix24, lovable, manus, mcp, express, streamlit, huggingface, firecrawl, tavily, traefik, powerbi, antigravity |
 | [Devicon](https://devicon.dev/) | MIT | python, typescript, javascript, html5, css3, react, nextjs, nodejs, postgresql, redis, supabase, aws, gcp, cloudflare, docker, terraform, debian, postman, githubactions, jira, windows11 |
 | [Simple Icons](https://simpleicons.org/) | CC0 1.0 | qdrant, nginx, ubuntu, coolify, hostinger, godaddy, deepseek, deepl, n8n, make, lookerstudio, mysql, ollama |
+| [`langchain-ai/.github`](https://github.com/langchain-ai/.github) | — | langchain (símbolo extraído do logo horizontal oficial) |
 | Composição própria | — | apple (ver abaixo) |
 
 `setup/apple.svg` é o logotipo arco-íris da Apple (1977–1998), montado sobre o path do
@@ -65,12 +73,11 @@ nunca publicou os códigos, então usamos os valores consistentes entre reconstr
 
 ## Ajustes de cor remanescentes
 
-Quatro ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
+Três ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
 pela própria marca. Foram clareados para manter ≥3:1 de contraste nos dois temas:
 
 | Ícone | De | Para |
 | --- | --- | --- |
-| `ai/tavily` | `#1F1E1E` | `#6E7681` |
 | `ai/deepl` | `#0F2B46` | `#3B82C4` |
 | `cloud/aws` | `#252F3E` | `#7A869A` (só o texto; o *smile* segue `#F90`) |
 | `databases/mysql` | `#00618A` | `#4479A1` (azul MySQL, variante clara) |
