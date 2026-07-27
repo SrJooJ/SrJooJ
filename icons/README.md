@@ -43,6 +43,14 @@ o **app icon oficial** da marca, que já vem com fundo:
 | `ai/langchain.png` | webclip oficial de `langchain.com` |
 | `ai/ollama.png` | `ollama.com/public/apple-touch-icon.png` |
 
+`ai/tavily` merece nota à parte. O SVG oficial (`tavily-mark-black.svg`) desenha o
+quadrado e as setas como **recortes** (`fill-rule="evenodd"`), então as setas mostram o
+que estiver atrás: no fundo claro viram brancas, no escuro viram escuras — e o ícone
+inteiro some. A correção mantém a cor oficial `#1F1E1E` e duplica o path com
+`fill-rule="nonzero"` em branco por baixo, de modo que os recortes passem a revelar
+branco sólido em vez do fundo da página. No tema claro o resultado é idêntico ao
+original; no escuro as setas continuam legíveis.
+
 Cinco ícones ainda usam a media query, mas **sem risco**: todos têm duas cores próprias,
 então continuam legíveis mesmo travados na variante errada — a media query só refina o
 tom. São `ai/cursor`, `ai/manus`, `ai/mcp`, `languages/express` e
@@ -66,14 +74,14 @@ nunca publicou os códigos, então usamos os valores consistentes entre reconstr
 
 ## Ajustes de cor remanescentes
 
-Três ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
+Dois ícones ainda usam cor ajustada, por serem marcas escuras sem variante publicada
 pela própria marca. Foram clareados para manter ≥3:1 de contraste nos dois temas:
 
 | Ícone | De | Para |
 | --- | --- | --- |
 | `cloud/aws` | `#252F3E` | `#7A869A` (só o texto; o *smile* segue `#F90`) |
 | `databases/mysql` | `#00618A` | `#4479A1` (azul MySQL, variante clara) |
-| `ai/tavily` | `#1F1E1E` | `#6E7681` (a marca não publica app icon nem variante clara) |
+
 
 `cloud/gcp.png` é o `super_cloud_gradient.png` servido pelo gstatic, que o
 `cloud.google.com` declara hoje como `apple-touch-icon`. A versão de quatro cores
